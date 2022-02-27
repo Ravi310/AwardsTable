@@ -1,0 +1,34 @@
+.award_container p{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid brown;
+    width: 35%;
+    margin: auto;
+    margin-top: 12px;
+}
+
+.award_container table{
+    width: 60%;
+    margin: auto;
+    border: 1px solid brown;
+    margin-top: 25px;
+}
+
+.award_container td,th{
+    border: 1px solid brown;
+    padding: 10px;
+}
+
+.award_container td{
+    font-size: 20px;
+}
+
+
+.award_container th{
+    text-align: left;
+    font-size: 23px;
+    background-color: brown;
+    color: white;
+}
